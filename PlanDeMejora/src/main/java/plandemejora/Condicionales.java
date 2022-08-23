@@ -15,10 +15,7 @@ public class Condicionales {
         
         int numEpisodios=2;
         int temporadas=3;
-        
-        
-     
-        
+       
         if (numEpisodios>1 || temporadas>1 ){//Operador or= ||
             System.out.println("Es una miniserie");
         } else if(numEpisodios>10){

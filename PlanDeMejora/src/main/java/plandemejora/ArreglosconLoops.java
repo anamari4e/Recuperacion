@@ -10,7 +10,7 @@ package plandemejora;
  */
 public class ArreglosconLoops {
     public static void main(String[] args) {
-        int[] duracionEpisodio=new int[]{20,22,21,23,22};
+        int[] duracionEpisodio=new int[]{20,22,21,23,22};//Se crea el array
         int n=duracionEpisodio.length;
         int temporadaDuracion=0;
         

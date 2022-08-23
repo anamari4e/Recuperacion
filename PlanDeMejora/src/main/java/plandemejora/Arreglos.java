@@ -14,7 +14,7 @@ public class Arreglos {
     public static void main(String[] args) {
         System.out.println("Digite el número de episodio que quiera saber su duración: ");
         
-        Scanner entrada=new Scanner(System.in);//Se crea el Scanner normalmente
+        Scanner entrada=new Scanner(System.in);
         int episodio=entrada.nextInt();
         
         
